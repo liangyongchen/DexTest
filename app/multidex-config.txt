@@ -1,0 +1,2 @@
+com/dextest/MainActivity.class
+com/dextest/FixApplication.class
